@@ -1,8 +1,8 @@
 # Users-API
 ### 1) Клонирум файлы ветки master данного репозитория в папку своего локального компьютера
-`git clone git@github.com:amorid7956/Test_project.git`
+`git clone git@github.com:amorid7956/Users-API.git`
 ### 2) Заходим в папку проекта:
-`cd Test_project`
+`cd Users-API`
 ### 3) Создаём виртуальное окружение:
 `virtualenv venv`
 ### 4) Активируем виртуальное окружение:
