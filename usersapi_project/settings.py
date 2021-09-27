@@ -149,8 +149,3 @@ SWAGGER_SETTINGS = {
     'USE_SESSION_AUTH': False,
     'JSON_EDITOR': True,
 }
-
-"""
-{
-  "token": Token 413792b17620655f670980ad0f33b034a33128c9
-}"""
