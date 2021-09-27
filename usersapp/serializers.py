@@ -1,6 +1,7 @@
 from rest_framework.serializers import ModelSerializer
 from django.contrib.auth.models import User
 
+
 class ReadOnlyUserSerializer(ModelSerializer):
     class Meta:
         ref_name = 'ReadOnlyUserSerializer'
